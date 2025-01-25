@@ -29,6 +29,8 @@ Buyzo aims to provide a fast, seamless shopping experience with personalized rec
             <ul className='flex flex-col gap-1 text-gray-600'>
                 <li>9442519822</li>
                 <li>jaivisal123@gmail.com</li>
+                <li>9566777338</li>
+                <li>Rahul2825.kannan@gmail.com</li>
             </ul>
         </div>
 
